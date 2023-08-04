@@ -1,3 +1,22 @@
+/*# **************************************************************************
+# *                                                                        *
+# * Copyright 2023 ZADOYA Maksym Alexandrovich                             *
+# *                                                                        *
+# * Licensed under the Apache License, Version 2.0 (the "License");        *
+# * you may not use this file except in compliance with the License.       *
+# * You may obtain a copy of the License at                                *
+# *                                                                        *
+# *     https://github.com/Zad0ya/CPER/blob/master/LICENSE                 *
+# *                                                                        *
+# * Unless required by applicable law or agreed to in writing, software    *
+# * distributed under the License is distributed on an "AS IS" BASIS,      *
+# * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.*
+# * See the License for the specific language governing permissions and   *
+# * limitations under the License.                                        *
+# *                                                                        *
+# **************************************************************************
+*/
+
 #include <SFML/Graphics.hpp>
 #include <SFML/Audio.hpp>
 #include <cpprest/http_client.h>
@@ -200,7 +219,7 @@ int main()
     bool allCellsFilled = false;
     bool isActivating = false;
     bool requessendet = false;
-    bool isActivated = true;
+    bool isActivated = false;
     bool isErrorActivation = false;
     bool loadFilesToMemory = false;
     bool isInTransitionToSetup = false;
