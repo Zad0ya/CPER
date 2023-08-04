@@ -1,0 +1,157 @@
+﻿  Source.cpp
+C:\Users\Max\source\repos\CryproPupsik\CryproPupsik\STYLEdrawMainMenu.h(7,98): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Max\source\repos\CryproPupsik\CryproPupsik\STYLEdrawMainMenu.h(12,101): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Max\source\repos\CryproPupsik\CryproPupsik\STYLEdrawMainMenu.h(17,78): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Max\source\repos\CryproPupsik\CryproPupsik\STYLEdrawMainMenu.h(23,78): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Max\source\repos\CryproPupsik\CryproPupsik\STYLEdrawMainMenu.h(27,226): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Max\source\repos\CryproPupsik\CryproPupsik\STYLEdrawMainMenu.h(39,78): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Max\source\repos\CryproPupsik\CryproPupsik\STYLEdrawMainMenu.h(44,169): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Max\source\repos\CryproPupsik\CryproPupsik\STYLEdrawMainMenu.h(53,98): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Max\source\repos\CryproPupsik\CryproPupsik\STYLEdrawMainMenu.h(111,24): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Max\source\repos\CryproPupsik\CryproPupsik\STYLEdrawMainMenu.h(132,86): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Max\source\repos\CryproPupsik\CryproPupsik\STYLEdrawMainMenu.h(132,55): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Max\source\repos\CryproPupsik\CryproPupsik\STYLEdrawMainMenu.h(145,93): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Max\source\repos\CryproPupsik\CryproPupsik\STYLEdrawMainMenu.h(151,157): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Max\source\repos\CryproPupsik\CryproPupsik\STYLEdrawMainMenu.h(156,157): warning C4244: аргумент: преобразование "unsigned __int64" в "float", возможна потеря данных
+C:\Users\Max\source\repos\CryproPupsik\CryproPupsik\prufInternetConnection.h(79,145): warning C4244: аргумент: преобразование "size_t" в "float", возможна потеря данных
+C:\Users\Max\source\repos\CryproPupsik\CryproPupsik\prufInternetConnection.h(90,149): warning C4244: аргумент: преобразование "size_t" в "float", возможна потеря данных
+C:\Users\Max\source\repos\CryproPupsik\CryproPupsik\displayInformation.h(7,36): warning C4244: =: преобразование "unsigned __int64" в "float", возможна потеря данных
+C:\Users\Max\source\repos\CryproPupsik\CryproPupsik\displayInformation.h(8,49): warning C4244: инициализация: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Max\source\repos\CryproPupsik\CryproPupsik\displayInformation.h(8,24): warning C4244: инициализация: преобразование "T" в "const float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Max\source\repos\CryproPupsik\CryproPupsik\displayInformation.h(121,45): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Max\source\repos\CryproPupsik\CryproPupsik\displayInformation.h(128,76): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Max\source\repos\CryproPupsik\CryproPupsik\Source.cpp(36,35): warning C4244: инициализация: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\Max\source\repos\CryproPupsik\CryproPupsik\Source.cpp(37,36): warning C4244: инициализация: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\Max\source\repos\CryproPupsik\CryproPupsik\Source.cpp(205,60): warning C4244: аргумент: преобразование "unsigned int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Max\source\repos\CryproPupsik\CryproPupsik\Source.cpp(205,42): warning C4244: аргумент: преобразование "unsigned int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Max\source\repos\CryproPupsik\CryproPupsik\Source.cpp(206,83): warning C4244: аргумент: преобразование "unsigned int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Max\source\repos\CryproPupsik\CryproPupsik\Source.cpp(206,66): warning C4244: аргумент: преобразование "unsigned int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Max\source\repos\CryproPupsik\CryproPupsik\Source.cpp(208,67): warning C4244: аргумент: преобразование "unsigned int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Max\source\repos\CryproPupsik\CryproPupsik\Source.cpp(209,84): warning C4244: аргумент: преобразование "unsigned int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Max\source\repos\CryproPupsik\CryproPupsik\Source.cpp(210,67): warning C4244: аргумент: преобразование "unsigned int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Max\source\repos\CryproPupsik\CryproPupsik\Source.cpp(211,106): warning C4244: аргумент: преобразование "unsigned int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  CryproPupsik.vcxproj -> C:\Users\Max\source\repos\CryproPupsik\x64\Debug\CryproPupsik.exe
